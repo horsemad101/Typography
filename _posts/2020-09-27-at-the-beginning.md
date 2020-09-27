@@ -1,6 +1,6 @@
 ---
 layout: post
-title: At the beginning
+title: The beginning
 date: 2020-09-27T18:10:13.919Z
 header_feature_image: ../uploads/egypt.jpg
 caption: Egyptian Hieroglyphics
