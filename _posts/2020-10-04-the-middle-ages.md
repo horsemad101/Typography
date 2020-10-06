@@ -2,7 +2,7 @@
 layout: post
 title: The Middle Ages
 date: 2020-10-04T11:34:49.286Z
-header_feature_image: ../uploads/garamond.jpg
+header_feature_image: ../uploads/door-to-typo.jpg
 comments: true
 tags:
   - History
