@@ -2,7 +2,7 @@
 layout: post
 title: 17th and 18th century
 date: 2020-10-08T13:43:27.319Z
-header_feature_image: ../uploads/cd8dea8f9052764abeda5ded4de21fd3-olivier-philippe.jpg
+header_feature_image: ../uploads/5376422-letter-type-number-key-metal-wood-wood-letter-woodblock-letterpress-printing-press-press-typesetting-typeset-carving-stamp-brown-free-pictures.jpg
 caption: ""
 comments: true
 ---
