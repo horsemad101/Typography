@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Abbie Tyler
 header_feature_image: ../uploads/landing-image.png
 bannerheight: 20vmax
 logo: ../uploads/logo-type-time.jpg
-favicon: ../uploads/favicon.ico
+favicon: ../uploads/android-chrome-512x512.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
