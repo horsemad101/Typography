@@ -4,7 +4,7 @@ title: About me
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/dotty.png
+header_feature_image: ../uploads/page.jpg
 published: true
 tags: null
 description: null
