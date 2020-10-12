@@ -8,13 +8,13 @@ comments: true
 ---
 Continuing through time we move onto the changes within the 17/1800s, including royal orders and new typefaces created…
 
-![]( "Romain du roi print letters")
+![](../uploads/louis_xiv_of_france.jpg "Louis XIV of France")
 
-At the end of the 16th century Louis XIV ordered for a creation of a new type that was composed of letters that had been created through ‘scientific’ principles. Phillipe Grandjean was selected to produce this commission, he used a basic design and cut a type that drove Garamond – the most popular type at that time out of its top position.
+At the end of the 16th century Louis XIV ordered for a creation of a new type that was composed of letters that had been created through ‘scientific’ principles. Phillipe Grandjean was selected to produce this commission, he used a basic design and cut a type that drove Garamond – the most popular type at that time, out of its top position.
 
 The new type was known as Romain du Roi and it was first used in 1702. This new type was most liked for its regularity and precision along with the addition of flat serifs. Although this type was only intended for royal usage other creatives took it upon themselves to copy similar fonts to accessed for commercial use.
 
-Up until the 17th century three major typefaces had been developed; Roman, italic and gothic. Robert Granjon tried to create a fourth major typeface, Civilite. He planned for this to be a national typeface for French printers however this did not work out instead it was only used as a display face and was not used in the printing of books.
+Up until the 17th century only three major typefaces had been developed; Roman, italic and gothic. Robert Granjon tried to create a fourth major typeface, Civilite. He planned for this to be a national typeface for French printers however this did not go to plan and instead it was only used as a display face and was not used in the printing of books.
 
 In 1734 created a typeface based upon Garamond’s version of the Aldine Roman. The letters were well balanced, well cut and they made a font that was easy to read and highly liked by many.
 
