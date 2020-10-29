@@ -88,7 +88,12 @@ h2 {
 .animals img {
   width: 100%;
 }
-
+.site {
+  font-style: normal;
+  font-family:"Poppins","Helvetica Neue",sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
 .main {
 display: flex;
 flex-wrap: wrap;
