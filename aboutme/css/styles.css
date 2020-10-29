@@ -1,7 +1,96 @@
 body {
-
+background-color: #e5e4e2;
 }
 
+
 h1 {
-  
+  color:black;
+  font-style: normal;
+  font-family: "Poppins","Helvetica Neue", sans-serif;
+  font-size: 38px;
+  text-align: center;
+  text-decoration: underline;
+}
+h2 {
+  color:black;
+  font-style: normal;
+  font-family: "Poppins","Helvetica Neue", sans-serif;
+  font-size: 32px;
+  text-align: center;
+}
+.profile {
+  text-align: center;
+  background-color: white;
+  background-size: cover;
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  width: 300px;
+
+
+}
+.profile img {
+  width:100%;
+}
+.uni {
+  font-style: normal;
+  font-family: "Poppins","Helvetica Neue", sans-serif;
+  font-size: 17px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
+}
+
+.info {
+  font-style: normal;
+  font-family:"Poppins","Helvetica Neue",sans-serif;
+  font-size: 17px;
+  flex-basis: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
+
+}
+.website {
+  font-style: normal;
+  font-family:"Poppins","Helvetica Neue",sans-serif;
+  font-size: 17px;
+  flex-basis: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
+}
+.animalinfo {
+  font-style: normal;
+  font-family:"Poppins","Helvetica Neue",sans-serif;
+  font-size: 17px;
+  flex-basis: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
+}
+.animals {
+  text-align: center;
+  background-color: white;
+  background-size: cover;
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  max-width:800px;
+
+}
+.animals img {
+  width: 100%;
+}
+
+.main {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
 }
