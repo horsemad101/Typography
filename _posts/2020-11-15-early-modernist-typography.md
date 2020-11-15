@@ -11,4 +11,6 @@ One of the most memorable and influential people of this time was the last Bauha
 
 ![](../uploads/ross-sokolovski-juhbj2zv5he-unsplash-sml.jpg "Image of the Bauhaus building in Germany")
 
-The Bauhaus types have influenced many great artists such as Jan Tschichold who created visual art within books that meant book lovers could now see art in books even just by looking at a letter. This development came about after he visited a Bauhaus exhibition in 1924, according to Widewalls, 2020 he adopted the composition, structure and geometry of the Bauhaus type. His most important work following this inspiration was the Die Neue Typographie – The New Typography, created in 1928 it was one of many books that set the way for more universal and modernistic communication.
+The Bauhaus founded by Walter Gropius was a German art school that operated from 1919 to 1933. The school became famous for its unique approach which worked towards combining aesthetics within everyday functions.
+
+Bauhaus types have influenced many great artists such as Jan Tschichold who created visual art within books that meant book lovers could now see art in books even just by looking at a letter. This development came about after he visited a Bauhaus exhibition in 1924, according to Widewalls, 2020 he adopted the composition, structure and geometry of the Bauhaus type. His most important work following this inspiration was the Die Neue Typographie – The New Typography, created in 1928 it was one of many books that set the way for more universal and modernistic communication.
